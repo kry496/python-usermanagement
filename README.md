@@ -18,7 +18,7 @@
             -y uid, --uid uid                           Manually specific USER ID
             -s shell, --shell shell                     USE NO to avoid login shell creation
             -f directory, --directory directory         USE NO to avoid USER directory creation
-            -p passwd, --passwd passwd                    USE YES to overide default password created
+            -p passwd, --passwd passwd                  USE YES to overide default password created
 
     
  # SAMPLE - ADD_USER
